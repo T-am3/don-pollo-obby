@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d03dwb77ulpuf"
+path="res://.godot/imported/Lin gan guli guli (Christmas Edition) by Don Pollo [75lqVtyV00k].ogg-f60bfc8af07d0ca5fb2e8e683582ed2b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/Lin gan guli guli (Christmas Edition) by Don Pollo [75lqVtyV00k].ogg"
+dest_files=["res://.godot/imported/Lin gan guli guli (Christmas Edition) by Don Pollo [75lqVtyV00k].ogg-f60bfc8af07d0ca5fb2e8e683582ed2b.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

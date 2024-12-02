@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5gkc0y71dajh"
+path="res://.godot/imported/UMEO MAMI HENTE - Don Pollo ahh Sound Effect [giT-UgFlMt4].ogg-223f99c509f7376c2ee7129c46003145.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/UMEO MAMI HENTE - Don Pollo ahh Sound Effect [giT-UgFlMt4].ogg"
+dest_files=["res://.godot/imported/UMEO MAMI HENTE - Don Pollo ahh Sound Effect [giT-UgFlMt4].ogg-223f99c509f7376c2ee7129c46003145.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
